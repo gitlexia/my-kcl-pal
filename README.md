@@ -4,6 +4,14 @@ MyKCLPal is a mobile application prototype developed as part of a Human–Comput
 
 The project followed a full user-centred design workflow — from qualitative research and data analysis to interaction design and high-fidelity prototyping in Figma.
 
+## 🔗 Live Prototype
+
+View the interactive Figma prototype here:
+
+https://www.figma.com/design/f7YrH8WcaqhbREMBoodnGi/My-KCL-PAL?node- id=0-1&t=XJ7uksaCuEo7FNWz-1
+
+Best viewed in iPhone 13 Mini frame.
+
 ---
 
 ## Project Goals
