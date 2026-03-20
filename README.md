@@ -8,7 +8,7 @@ The project followed a full user-centred design workflow — from qualitative re
 
 View the interactive Figma prototype here:
 
-https://www.figma.com/design/f7YrH8WcaqhbREMBoodnGi/My-KCL-PAL?node- id=0-1&t=XJ7uksaCuEo7FNWz-1
+[![View Prototype in Figma](https://img.shields.io/badge/Figma-Prototype-blue?logo=figma)](https://www.figma.com/design/f7YrH8WcaqhbREMBoodnGi/My-KCL-PAL?node-id=0-1&t=XJ7uksaCuEo7FNWz-1)
 
 Best viewed in iPhone 13 Mini frame.
 
