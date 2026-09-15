@@ -95,4 +95,53 @@ Potential next steps for the project include:
 - Implementing a functional frontend prototype  
 - Integrating real health APIs and wearable device data  
 - Improving adaptive personalisation using machine learning  
-- Conducting usability testing with live users  
+- Conducting usability testing with live users
+
+## Welcome Pages
+<img width="1201" height="693" alt="image" src="https://github.com/user-attachments/assets/64dc8505-ddeb-497d-aaf7-17acc08ae711" />
+
+## Onboarding and Health Intake
+<img width="1252" height="420" alt="image" src="https://github.com/user-attachments/assets/0e009143-3507-4273-af4e-161ae3e8a102" />
+
+## Home Page
+<img width="585" height="421" alt="image" src="https://github.com/user-attachments/assets/2488643a-57f2-4352-a829-b903301baadc" />
+
+## Exercise/Logging Pages
+<img width="1708" height="322" alt="image" src="https://github.com/user-attachments/assets/181cdadb-e566-4654-896a-d68ae0285691" />
+
+## Diet Logging - Home Pages
+<img width="427" height="307" alt="image" src="https://github.com/user-attachments/assets/9117ef15-c639-46e1-8d31-3647a40245c1" />
+
+## Diet Logging - Breakfast
+<img width="565" height="445" alt="image" src="https://github.com/user-attachments/assets/88da43bc-8172-43cb-86d1-325246a21bbc" />
+
+## Diet Logging - Lunch
+<img width="577" height="446" alt="image" src="https://github.com/user-attachments/assets/3d370eb7-742a-4419-a672-a14506ff3964" />
+
+## Diet Logging - Dinner/Snacks
+<img width="1249" height="459" alt="image" src="https://github.com/user-attachments/assets/43a40ba2-845c-43e4-b54a-ba384c244f47" />
+
+
+## Finance/Budget Pages
+<img width="765" height="488" alt="image" src="https://github.com/user-attachments/assets/9fe200be-333b-4ef9-b498-fe09fbe7058b" />
+
+## Planner/Daily Challenge Pages
+<img width="1094" height="516" alt="image" src="https://github.com/user-attachments/assets/aa0f89ff-3c50-4bc8-a1ff-b7bfb4d93f26" />
+
+## Community Pages
+<img width="984" height="478" alt="image" src="https://github.com/user-attachments/assets/f7a8a50e-f668-4c21-9513-993933170adf" />
+
+## Profile Pages
+<img width="1630" height="491" alt="image" src="https://github.com/user-attachments/assets/a591da44-69b7-48d0-aae3-64ad46cce7cc" />
+
+## AI Chatbot
+<img width="651" height="485" alt="image" src="https://github.com/user-attachments/assets/78210830-8df1-4197-9b4c-454a98773ad1" />
+
+
+
+
+
+
+
+
+ 
